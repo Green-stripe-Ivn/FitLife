@@ -20,7 +20,6 @@ user_weight = input('Укажи свой вес (кг): ')
 user_weight = float(user_weight)
 user_height = input('Укажи свой рост (м): ')
 user_height = float(user_height)
-# и сохрани в user_height (тип float)
 
 # 3. Логика расчетов (Функции как "черный ящик": используем арифметику)
 # Формула ИМТ: вес разделить на (рост в квадрате)
